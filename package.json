@@ -5,6 +5,7 @@
   "version": "0.0.7-0",
   "main": "bh1750",
   "scripts": {
+    "start": "node example",
     "test": "node example",
     "lint": "eslint ."
   },
